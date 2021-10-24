@@ -2,13 +2,14 @@
 
 ## Clases
 
-Para organizar las distintas figuras las dividiria segun el numero de lados segun tengan 3,4,5,...
+Para organizar las distintas figuras las dividiría según el número de lados según tengan 3,4,5,...
 
 ## Realización
-Apartir de hay empezaria desde la figura con menos lados en este caso el circulo ya que no tiene dando su calculo de área y seguiria con triangulos,cuadrilateros,pentagonos,...
-hasta llegar a la ultima figura pedida en este caso el pentagono,y en casos precisos con en el de los cuadrilateros dando varias formulas de el calculo de área segun la ddispocicion del mismo si es rectangulo,rombo,trapecio...
+
+A Partir de ahi empezaria desde la figura con menos lados en este caso el círculo ya que no tiene dando su cálculo de área y seguiría con triángulos,cuadriláteros,pentágonos,... hasta llegar a la última figura pedida en este caso el pentágono,y en casos precisos con en el de los cuadriláteros dando varias fórmulas del cálculo de área según la disposición del mismo si es rectángulo,rombo,trapecio...
 
 ## Resumen(idea general)
-Crearia un apartado principal llamado áreasdonde estarian detro las distintas figuras ordenas por sus lados en el que seleccionas un numero de lados y te salen las posibles figuras y al seleccionar una figura te sale la formula del calculo de su área
+
+Crearía un apartado principal llamado áreas donde estarían dentro las distintas figuras ordenadas por sus lados en el que seleccionas un número de lados y te salen las posibles figuras y al seleccionar una figura te sale la fórmula del cálculo de su área.
 
 ![Captura](https://user-images.githubusercontent.com/91209288/138589328-54b03b85-b860-45f8-ab7f-b267d5bb9b99.PNG)
